@@ -119,5 +119,3 @@ tbl_summary(top_50_2023[, -2]) %>%
 
 View(top_50_2023) 
 
-abc
-def

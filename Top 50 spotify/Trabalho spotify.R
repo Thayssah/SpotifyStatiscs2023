@@ -117,4 +117,7 @@ tbl_summary(top_50_2023[, -2]) %>%
    as_flex_table() %>% 
    save_as_docx(path = "Tabela3.docx")
 
-View(top_50_2023)
+View(top_50_2023) 
+
+abc
+def
